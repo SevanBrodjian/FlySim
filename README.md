@@ -24,4 +24,4 @@ The core functionality of the simulation is provided by the Fly class, which inc
 
 ## License
 
-This project is created by [Your Name] and is released under the [license of your choice].
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
